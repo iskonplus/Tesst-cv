@@ -2,7 +2,7 @@
 
 ### Contact Info
 *Phone number:*
-* +375 29 8523-553.
+* +375 29 852-35-53.
 
 *E-mail:*
 * iskonplus@tut.by
