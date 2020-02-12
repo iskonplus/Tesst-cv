@@ -8,7 +8,7 @@
 * iskonplus@tut.by
 
 ## Summary
-I'm ready to enjoy my work. I am organized and highly motivated to become a strong front-end developer. I am studying at an IT school <TeachMeSkills/>. Every day I spend 4-5 hours writing code. I do my homework on time. I am very interested in getting a job in an IT company in the future.
+I'm ready to enjoy my work. I am organized and highly motivated to become a strong front-end developer. I am studying at an IT school "<TeachMeSkills/>". Every day I spend 4-5 hours writing code. I do my homework on time. I am very interested in getting a job in an IT company in the future.
 
 ## Skills
 * HTML
@@ -29,7 +29,7 @@ Performing homework and coursework at the programming school from September 2019
 * Republican College of arts (Department: painting.) 2001.
 * Basics photoshop course. 2001
 * Architecture and construction College (Department: architecture.) 2007.
-* Student of the IT school " < TeachMeSkills/>". Now.
+* Student of the IT school "< TeachMeSkills/>". Now.
  
 ## Foreign language:
 * English: Elementary (studied only at school).
